@@ -38,3 +38,7 @@ caption {
 .column-border {
   border: 2px solid black;
 }
+
+/* .first-col {
+    column-span: 2;
+} */
